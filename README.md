@@ -4,7 +4,7 @@
   </h2>
   <div>
 <br>
-<p align="justify">
+<p>
     <h6>Используется API платформы CoinGecko</h6>
 </p>
 <p align="justify">
@@ -12,5 +12,7 @@
 </p>
 <p align="justify">
 В формате {crypto}/{fiat}.
+</p>
+<p align="justify"> 
 Например BTC/USD или eth/rub.
 </p>
